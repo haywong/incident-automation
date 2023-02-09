@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">e69c7e572fbca510bbcd24c62799b643</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-09 10:56:47</sys_created_on>
+        <sys_id>539cbe572fbca510bbcd24c62799b6a8</sys_id>
+        <sys_name/>
+        <sys_package display_value="Incident Automation" source="x_892197_y">67a853a62f102110bbcd24c62799b6fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Incident Automation">67a853a62f102110bbcd24c62799b6fb</sys_scope>
+        <sys_update_name>sp_instance_539cbe572fbca510bbcd24c62799b6a8</sys_update_name>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<p style=\"text-align: center;\"><a href=\"softwarecenter:SoftwareID=ScopeId_1E924A7E-836A-4A64-A36F-1D144ED02B67/Application_a87a5f52-85dd-4732-865f-caa9d9631cd1\"> install 7zip </a></p>",
+		"displayValue": "<p style=\"text-align: center;\"><a href=\"softwarecenter:SoftwareID=ScopeId_1E924A7E-836A-4A64-A36F-1D144ED02B67/Application_a87a5f52-85dd-4732-865f-caa9d9631cd1\"> install 7zip </a></p>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=539cbe572fbca510bbcd24c62799b6a8"/>
+</record_update>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">9f56fadf2f7ca510bbcd24c62799b604</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-09 10:46:02</sys_created_on>
+        <sys_id>0a2af2d32fbca510bbcd24c62799b6c3</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>redirects to 7zip</sys_name>
+        <sys_package display_value="Incident Automation" source="x_892197_y">67a853a62f102110bbcd24c62799b6fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Incident Automation">67a853a62f102110bbcd24c62799b6fb</sys_scope>
+        <sys_update_name>sp_instance_0a2af2d32fbca510bbcd24c62799b6c3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-09 10:48:04</sys_updated_on>
+        <title>redirects to 7zip</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<p><a href=\"softwarecenter:SoftwareID=ScopeId_1E924A7E-836A-4A64-A36F-1D144ED02B67/Application_a87a5f52-85dd-4732-865f-caa9d9631cd1\"> install 7zip </a></p>",
+		"displayValue": "<p><a href=\"softwarecenter:SoftwareID=ScopeId_1E924A7E-836A-4A64-A36F-1D144ED02B67/Application_a87a5f52-85dd-4732-865f-caa9d9631cd1\"> install 7zip </a></p>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=0a2af2d32fbca510bbcd24c62799b6c3"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Incident Automation">67a853a62f102110bbcd24c62799b6fb</application>
+        <file_path/>
+        <instance_id>c0a7e635db1cbb0052dd2f17d49619b9</instance_id>
+        <instance_name>dev76335</instance_name>
+        <name>sp_instance_0a2af2d32fbca510bbcd24c62799b6c3</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;9f56fadf2f7ca510bbcd24c62799b604&lt;/sp_column&gt;&lt;sp_widget display_value="HTML"&gt;8679ef89cb21120000f8d856634c9c4f&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-02-09 10:46:02&lt;/sys_created_on&gt;&lt;sys_id&gt;0a2af2d32fbca510bbcd24c62799b6c3&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;redirects to 7zip&lt;/sys_name&gt;&lt;sys_package display_value="Incident Automation" source="x_892197_y"&gt;67a853a62f102110bbcd24c62799b6fb&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Incident Automation"&gt;67a853a62f102110bbcd24c62799b6fb&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_0a2af2d32fbca510bbcd24c62799b6c3&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-02-09 10:48:04&lt;/sys_updated_on&gt;&lt;title&gt;redirects to 7zip&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"html": {
+		"value": "&lt;p&gt;&lt;a href=\"softwarecenter:SoftwareID=ScopeId_1E924A7E-836A-4A64-A36F-1D144ED02B67/Application_a87a5f52-85dd-4732-865f-caa9d9631cd1\"&gt; install 7zip &lt;/a&gt;&lt;/p&gt;",
+		"displayValue": "&lt;p&gt;&lt;a href=\"softwarecenter:SoftwareID=ScopeId_1E924A7E-836A-4A64-A36F-1D144ED02B67/Application_a87a5f52-85dd-4732-865f-caa9d9631cd1\"&gt; install 7zip &lt;/a&gt;&lt;/p&gt;"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=0a2af2d32fbca510bbcd24c62799b6c3"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-93015470</payload_hash>
+        <record_name>redirects to 7zip</record_name>
+        <reverted_from/>
+        <source>aad0fa1b2f7ca510bbcd24c62799b6c7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-09 10:48:04</sys_created_on>
+        <sys_id>379a76932fbca510bbcd24c62799b68d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18635ca21c80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-09 10:48:04</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>3f9a7693e2bca51024c9bed97719a48c</update_guid>
+        <update_guid_history>3f9a7693e2bca51024c9bed97719a48c:-93015470,a64a7693ebbca5103d4e3bc28475de88:-1497422990,8e2af2d355bca510ec11d888efba42c4:-1926785527</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="redirects to 7zip">de1df6972fbca510bbcd24c62799b61a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-09 10:58:54</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>d7b046d697af4ec192433f568dd02729</sys_id>
+        <sys_metadata>0a2af2d32fbca510bbcd24c62799b6c3</sys_metadata>
+        <sys_name>redirects to 7zip</sys_name>
+        <sys_package display_value="Incident Automation" source="x_892197_y">67a853a62f102110bbcd24c62799b6fb</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Incident Automation">67a853a62f102110bbcd24c62799b6fb</sys_scope>
+        <sys_scope_delete display_value="">0c64d114fab54979818a4a9c3dd79501</sys_scope_delete>
+        <sys_update_name>sp_instance_0a2af2d32fbca510bbcd24c62799b6c3</sys_update_name>
+        <sys_update_version display_value="sp_instance_0a2af2d32fbca510bbcd24c62799b6c3">379a76932fbca510bbcd24c62799b68d</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

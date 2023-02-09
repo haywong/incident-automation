@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_ais">
+    <sp_instance_ais action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ai_search_source_filter/>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <disable_all_suggestions>false</disable_all_suggestions>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <placeholder/>
+        <roles/>
+        <search_application/>
+        <search_results_configuration/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">c756badf2f7ca510bbcd24c62799b6fc</sp_column>
+        <sp_widget display_value="Typeahead Search">fa20ec02cb31020000f8d856634c9ce9</sp_widget>
+        <spell_check_font_size>xl</spell_check_font_size>
+        <sys_class_name>sp_instance_ais</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-09 10:29:28</sys_created_on>
+        <sys_id>0b56badf2f7ca510bbcd24c62799b6fe</sys_id>
+        <sys_name/>
+        <sys_package display_value="Incident Automation" source="x_892197_y">67a853a62f102110bbcd24c62799b6fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Incident Automation">67a853a62f102110bbcd24c62799b6fb</sys_scope>
+        <sys_update_name>sp_instance_ais_0b56badf2f7ca510bbcd24c62799b6fe</sys_update_name>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_ais>
+    <sys_translated_text action="delete_multiple" query="documentkey=0b56badf2f7ca510bbcd24c62799b6fe"/>
+</record_update>
