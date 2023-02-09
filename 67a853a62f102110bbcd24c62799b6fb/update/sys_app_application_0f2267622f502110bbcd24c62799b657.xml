@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Automation</name>
+        <order>100</order>
+        <roles>x_892197_y.incident_automation_meta_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-13 09:14:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0f2267622f502110bbcd24c62799b657</sys_id>
+        <sys_name>Automation</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Incident Automation" source="x_892197_y">67a853a62f102110bbcd24c62799b6fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Incident Automation">67a853a62f102110bbcd24c62799b6fb</sys_scope>
+        <sys_update_name>sys_app_application_0f2267622f502110bbcd24c62799b657</sys_update_name>
+        <title>Automation</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

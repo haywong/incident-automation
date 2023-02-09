@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9d01676e2f102110bbcd24c62799b6a7" label="Incident Automation Meta" max_length="40" name="x_892197_y_incident_automation_meta" type="collection">
+        <element label="Autoation Name" max_length="125" name="autoation_name" type="string"/>
+        <element label="Automation Description" max_length="1000" name="automation_description" type="string"/>
+        <element label="Target URL" max_length="40" name="target_url" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="1192eb622f502110bbcd24c62799b6ec" sys_domain="global" table="x_892197_y_incident_automation_meta" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-13 09:15:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e5922f622f502110bbcd24c62799b66b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_892197_y_incident_automation_meta" name="x_892197_y_incident_automation_meta" sys_domain="global" view="Default view">1192eb622f502110bbcd24c62799b6ec</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_892197_y_incident_automation_meta" sys_domain="global" view="Default view">b7322f6e2f102110bbcd24c62799b62e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-13 09:15:51</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-13 09:15:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e1922f622f502110bbcd24c62799b66c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_892197_y_incident_automation_meta" name="x_892197_y_incident_automation_meta" sys_domain="global" view="Default view">1192eb622f502110bbcd24c62799b6ec</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_892197_y_incident_automation_meta" sys_domain="global" view="Default view">1192eb622f502110bbcd24c62799b6eb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-13 09:15:51</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_892197_y_incident_automation_meta</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-13 09:15:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1192eb622f502110bbcd24c62799b6ec</sys_id>
+            <sys_name>x_892197_y_incident_automation_meta</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Incident Automation" source="x_892197_y">67a853a62f102110bbcd24c62799b6fb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Incident Automation">67a853a62f102110bbcd24c62799b6fb</sys_scope>
+            <sys_update_name>sys_ui_form_sections_1192eb622f502110bbcd24c62799b6ec</sys_update_name>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
